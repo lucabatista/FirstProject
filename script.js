@@ -34,7 +34,7 @@ function fazerPergunta() {
 
     setTimeout(function() {
         perguntaElement.style.opacity = 0
-        return 
+        
     },3000)
   
 }
