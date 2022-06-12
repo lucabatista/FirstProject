@@ -9,7 +9,7 @@ const respostas = [
     "Não",
     "Talvez",
     "Melhor não fazer tantos planos hein!","Você é muito esperto(a)",
-    "continue assim "
+    "continue assim ","Tente mais vezes "
 
 ]
 
